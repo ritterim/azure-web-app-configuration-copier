@@ -1,0 +1,15 @@
+{
+  "name": "azure-web-app-configuration-copier",
+  "version": "0.1.0",
+  "description": "A tool to copy appSettings and connection strings between Azure Web Apps.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritter Insurance Marketing",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "shelljs": "^0.5.3"
+  }
+}

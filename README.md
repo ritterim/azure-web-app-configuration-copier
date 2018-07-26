@@ -7,7 +7,7 @@ A tool to copy appSettings and connection strings between Azure Web Apps.
 - Install [Node.js](https://nodejs.org) *(if not already installed)*.
 - `npm install -g azure-cli`
 - `azure login`
-- `azure config mode asm`
+- `azure config mode asm` *(the default can be restored with `azure config mode arm`)*
 - `git clone ...`
 - `cd azure-web-app-configuration-copier`
 - `npm install`
